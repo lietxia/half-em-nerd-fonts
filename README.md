@@ -1,6 +1,6 @@
 # 0.5em Nerd Fonts
 
-![预览合集](previews/Iosevka%20Nerd%20Font.svg)
+![预览合集](previews/iosevka.png)
 
 一批拉丁字宽正好等于中文一半（0.5em）的等宽字体，全部由 [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 官方打补丁，开箱自带终端与编辑器图标，无需自行 patch。与全角中文混排时天然 2:1 对齐，
@@ -11,7 +11,7 @@ Markdown 表格和代码注释不会因中英混排而错位。
 
 ## Agave
 
-![Agave](previews/Agave%20Nerd%20Font.svg)
+![Agave](previews/agave.png)
 
 几何感强、细线风格的小巧等宽字体，结构规整。
 
@@ -20,7 +20,7 @@ Markdown 表格和代码注释不会因中英混排而错位。
 
 ## Inconsolata
 
-![Inconsolata](previews/Inconsolata%20Nerd%20Font.svg)
+![Inconsolata](previews/inconsolata.png)
 
 带斜杠零，曲线柔和，灵感取自多款字体的字形。
 
@@ -30,7 +30,7 @@ Markdown 表格和代码注释不会因中英混排而错位。
 
 ## Inconsolata Go
 
-![Inconsolata Go](previews/InconsolataGo%20Nerd%20Font.svg)
+![Inconsolata Go](previews/inconsolatogo.png)
 
 Inconsolata 的直引号版本，适合偏好直排引号的终端。
 
@@ -39,7 +39,7 @@ Inconsolata 的直引号版本，适合偏好直排引号的终端。
 
 ## Iosevka
 
-![Iosevka](previews/Iosevka%20Nerd%20Font.svg)
+![Iosevka](previews/iosevka.png)
 
 最著名的窄体等宽字体，也是更纱黑体（Sarasa）的英文底子。字符排布紧密，省屏幕横向空间。
 
@@ -49,7 +49,7 @@ Inconsolata 的直引号版本，适合偏好直排引号的终端。
 
 ## Iosevka Term
 
-![Iosevka Term](previews/IosevkaTerm%20Nerd%20Font.svg)
+![Iosevka Term](previews/iosevketerm.png)
 
 面向终端：箭头和几何符号收窄，以贴合终端的列宽习惯。
 
@@ -59,7 +59,7 @@ Inconsolata 的直引号版本，适合偏好直排引号的终端。
 
 ## Iosevka Term Slab
 
-![Iosevka Term Slab](previews/IosevkaTermSlab%20NF.svg)
+![Iosevka Term Slab](previews/iosevkatermslab.png)
 
 Iosevka Term 的衬线（slab）版，保留终端窄符号的同时加了板状衬线。
 
@@ -69,7 +69,7 @@ Iosevka Term 的衬线（slab）版，保留终端窄符号的同时加了板状
 
 ## Lekton
 
-![Lekton](previews/Lekton%20Nerd%20Font.svg)
+![Lekton](previews/lekton.png)
 
 纤细轻盈，笔锋锐利，`0` 与 `O` 形状接近，偏重极简风格。
 
@@ -78,7 +78,7 @@ Iosevka Term 的衬线（slab）版，保留终端窄符号的同时加了板状
 
 ## Monofur
 
-![Monofur](previews/Monofur%20Nerd%20Font.svg)
+![Monofur](previews/monofur.png)
 
 圆点零，字符紧凑且带曲线，风格圆润。
 
@@ -87,7 +87,7 @@ Iosevka Term 的衬线（slab）版，保留终端窄符号的同时加了板状
 
 ## Terminus
 
-![Terminus](previews/Terminess%20Nerd%20Font.svg)
+![Terminus](previews/terminus.png)
 
 源自经典终端位图字体，方块字形略带倾斜，辨识度高。
 
@@ -96,7 +96,7 @@ Iosevka Term 的衬线（slab）版，保留终端窄符号的同时加了板状
 
 ## Ubuntu Mono
 
-![Ubuntu Mono](previews/UbuntuMono%20Nerd%20Font.svg)
+![Ubuntu Mono](previews/ubuntumono.png)
 
 Ubuntu 家族的等宽字体，圆点零，以 `n`/`o`/`H`/`O` 为骨架，风格稳重。
 
@@ -105,7 +105,7 @@ Ubuntu 家族的等宽字体，圆点零，以 `n`/`o`/`H`/`O` 为骨架，风�
 
 ## D2Coding
 
-![D2Coding](previews/D2KodingLigature%20Nerd%20Font.svg)
+![D2Coding](previews/d2coding.png)
 
 Naver 出品的韩文编程字体，连字版；韩文与拉丁混排友好。
 
@@ -114,7 +114,7 @@ Naver 出品的韩文编程字体，连字版；韩文与拉丁混排友好。
 
 ## Zed Mono
 
-![Zed Mono](previews/ZedMono%20NF.svg)
+![Zed Mono](previews/zedmono.png)
 
 Zed 编辑器出品的 Iosevka 圆角衍生，较新，风格柔和。
 
